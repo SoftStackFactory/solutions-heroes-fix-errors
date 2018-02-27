@@ -1,10 +1,10 @@
-# AngularHeroes
+# Angular Heroes Fix Errors App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+This project is mean to help assist you in learing common errors.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+When running server in Cloud9  " ng serve --host 0.0.0.0 --public-host **<your-first-name>-spring-2018-phortonssf.c9users.io"
 
 ## Code scaffolding
 
